@@ -215,6 +215,7 @@ body {
     width: 300px;
     padding: 15px;
     font-weight: bold;
+    z-index: -1;
 }
 .header-area .links-container {
     width: 100%;
