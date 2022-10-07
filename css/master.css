@@ -31,6 +31,7 @@ body {
 }
 .settings-box.open {
     left: 0;
+    z-index: 10000;
 }
 .settings-box .toogle-seetings{
     position: absolute;
